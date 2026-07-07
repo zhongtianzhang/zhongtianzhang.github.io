@@ -25,6 +25,16 @@ Selected Recent Publications
 3. **Z Zhang**, X He, C Zhou, M Reaume, M Wu, B Liu*, BP Lee*. "<span>Iron magnetic nanoparticle-induced ROS generation from catechol-containing microgel for environmental and biomedical applications</span>" *ACS Applied Materials & Interfaces*, (2020). [Link](https://doi.org/10.1021/acsami.9b19726)
 4. Md S Akram Bhuiyan, JD Roland, B Liu, M Reaume, **Z Zhang**, JD Kelley, BP Lee*. "<span>In situ deactivation of catechol-containing adhesive using electrochemistry</span>" *Journal of the American Chemical Society*, 142, 4631-4638, (2020). [Link](https://doi.org/10.1021/jacs.9b11266)
 
+<ol>
+<li><strong>Z Zhang</strong>, BP Lee*. "Autoxidation-induced curing of 6-hydroxycatechol-containing adhesive." <i>Macromolecular Chemistry and Physics</i> (2025). <a href="https://doi.org/10.1002/macp.202500010">Link</a></li>
+
+<li>B Liu, <strong>Z Zhang</strong>, B Li, Q Liu, BP Lee*. "Acrylate monomer polymerization triggered by iron oxide magnetic nanoparticles and catechol containing microgels." <i>Chemical Engineering Journal</i> (2023). <a href="https://doi.org/10.1016/j.cej.2023.143716">Link</a></li>
+
+<li><strong>Z Zhang</strong>, X He, C Zhou, M Reaume, M Wu, B Liu*, BP Lee*. "Iron magnetic nanoparticle-induced ROS generation from catechol-containing microgel for environmental and biomedical applications." <i>ACS Applied Materials &amp; Interfaces</i> (2020). <a href="https://doi.org/10.1021/acsami.9b19726">Link</a></li>
+
+<li>Md S Akram Bhuiyan, JD Roland, B Liu, M Reaume, <strong>Z Zhang</strong>, JD Kelley, BP Lee*. "In situ deactivation of catechol-containing adhesive using electrochemistry." <i>Journal of the American Chemical Society</i>, 142, 4631–4638 (2020). <a href="https://doi.org/10.1021/jacs.9b11266">Link</a></li>
+</ol>
+
 Open to Opportunities
 ======
 I am open to postdoctoral researcher, R&D scientist, and teaching faculty opportunities in biomaterials, polymer science, and biomedical engineering. I welcome discussions and collaborations related to bioinspired polymers, tissue adhesives, and multifunctional biomaterials.
