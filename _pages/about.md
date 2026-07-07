@@ -11,8 +11,8 @@ Hello! I am a research scientist specializing in polymer chemistry and bioinspir
 
 Research Interests
 ======
-- Bioinspired polymer chemistry
-- Material synthesis and characterization
+- Bioinspired materials design and catechol chemistry
+- Polymer synthesis and biomaterial characterization
 - Adhesive, antimicrobial, and responsive biomaterials
 - Functional hydrogels and multifunctional materials
 - Regenerative medicine and tissue engineering
