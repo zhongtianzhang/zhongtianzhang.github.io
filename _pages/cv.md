@@ -11,35 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biomedical Engineering, Michigan Technological University, 2025
+* M.S. in Biomedical Engineering, Michigan Technological University, 2018
+* B.S. in Biomedical Engineering, Michigan Technological University, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2020: Teaching Assistant (Outstanding Teaching Award)
+  * Michigan Technological University
+  * Course: BE3400 Lab Techniques
+  * Duties includes: Led laboratory sessions for undergraduate biomedical engineering students, provided instruction on experimental techniques, developed and updated pre-/post-lab materials, and evaluated student lab reports and assignments
+  * Supervisor: Dr. Hyeun Joong Yoon
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2019: Teaching Assistant
+  * Michigan Technological University
+  * Course: BE3400 Lab Techniques
+  * Duties includes: Assisted in laboratory instruction, coordinated student participation, and developed online course materials to support hybrid teaching needs during the COVID-19 pandemic
+  * Supervisor: Dr. Feng Zhao
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2018: Research Assistant
+  * Michigan Technological University
+  * Duties included: Conducted research on catechol-based biomaterials, including polymer synthesis, material characterization, and evaluation of adhesive and antimicrobial properties for biomedical applications
+  * Supervisor: Dr. Bruce Lee
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Polymer synthesis (PEG, Acrylic monomer, Gelatin, Alginate)
+* Organic chemistry (Carbodiimide, Schiff-base, Free radical polymerization)
+* Spectroscopy (NMR, UV-vis, HPLC, EPR, Fluorimetry, FTIR, Raman)
+* Microscopy (Optical microscope, FESEM with EDS)
+* Mechanical tests (Rheometry, Tensile test, Compression test, Adhesion test)
+* Cell study (Mammalian cell culture, Live/dead staining, Immunofluorescent assay)
+* Antibacterial test (CFU counting, Zone of inhibition assay)
+* Statistical analysis
 
 Publications
 ======
