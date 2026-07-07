@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Avatar.png"
+  avatar           : "Avatar1.png"
   name             : "Zhongtian Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Research scientist developing next-generation biomaterials for biomedical applications"
