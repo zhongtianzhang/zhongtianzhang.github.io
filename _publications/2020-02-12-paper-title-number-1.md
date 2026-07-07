@@ -2,7 +2,7 @@
 title: "In situ deactivation of catechol-containing adhesive using electrochemistry"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-02-12-paper-title-number-5
+permalink: /publication/2020-02-12-paper-title-number-1
 excerpt: ''
 date: 2020-02-12
 venue: 'Journal of the American Chemical Society'
