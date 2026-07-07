@@ -18,7 +18,7 @@ Research Interests
 - Regenerative medicine and tissue engineering
 - Dental and orthopedic biomaterials
 
-Selected Publications
+Selected Recent Publications
 ======
 1. **Z Zhang**, BP Lee* “Autoxidation‐Induced Curing of 6‐Hydroxycatechol‐Containing Adhesive” *Macromolecular Chemistry and Physics*, (2025).
 2. B Liu, **Z Zhang**, B Li, Q Liu, BP Lee*. “Acrylate monomer polymerization triggered by iron oxide magnetic nanoparticles and catechol containing microgels” *Chemical Engineering Journal*, (2023).
