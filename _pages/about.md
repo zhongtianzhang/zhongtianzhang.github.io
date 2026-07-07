@@ -20,11 +20,6 @@ Research Interests
 
 Selected Recent Publications
 ======
-1. **Z Zhang**, BP Lee*. "<span>Autoxidation‐induced curing of 6‐hydroxycatechol‐containing adhesive</span>" *Macromolecular Chemistry and Physics*, (2025). [Link](https://doi.org/10.1002/macp.202500010)
-2. B Liu, **Z Zhang**, B Li, Q Liu, BP Lee*. "<span>Acrylate monomer polymerization triggered by iron oxide magnetic nanoparticles and catechol containing microgels</span>" *Chemical Engineering Journal*, (2023). [Link](https://doi.org/10.1016/j.cej.2023.143716)
-3. **Z Zhang**, X He, C Zhou, M Reaume, M Wu, B Liu*, BP Lee*. "<span>Iron magnetic nanoparticle-induced ROS generation from catechol-containing microgel for environmental and biomedical applications</span>" *ACS Applied Materials & Interfaces*, (2020). [Link](https://doi.org/10.1021/acsami.9b19726)
-4. Md S Akram Bhuiyan, JD Roland, B Liu, M Reaume, **Z Zhang**, JD Kelley, BP Lee*. "<span>In situ deactivation of catechol-containing adhesive using electrochemistry</span>" *Journal of the American Chemical Society*, 142, 4631-4638, (2020). [Link](https://doi.org/10.1021/jacs.9b11266)
-
 <ol>
 <li><strong>Z Zhang</strong>, BP Lee*. "Autoxidation-induced curing of 6-hydroxycatechol-containing adhesive." <i>Macromolecular Chemistry and Physics</i> (2025). <a href="https://doi.org/10.1002/macp.202500010">Link</a></li>
 
