@@ -17,6 +17,11 @@ Research Interests
 - Functional hydrogels and multifunctional materials
 - Regenerative medicine and tissue engineering
 - Dental and orthopedic biomaterials
+
+Selected Publications
+======
+1. **Z Zhang**, X He, C Zhou, M Reaume, M Wu, B Liu*, BP Lee*. “Iron magnetic nanoparticle-induced ROS generation from catechol-containing microgel for environmental and biomedical applications” *ACS Applied Materials & Interfaces*, (2020).
+2. Md S Akram Bhuiyan, JD Roland, B Liu, M Reaume, **Z Zhang**, JD Kelley, BP Lee*. “In situ deactivation of catechol-containing adhesive using electrochemistry” Journal of the American Chemical Society, 142, 4631-4638, (2020).
   
 A data-driven personal website
 ======
