@@ -9,6 +9,15 @@ redirect_from:
 
 Hello! I am a research scientist specializing in polymer chemistry and bioinspired biomaterials for wet adhesion, regenerative medicine, and infection control. I received my Ph.D. in Biomedical Engineering from [Michigan Technological University](https://www.mtu.edu/biomedical/) under the mentorship of [Dr. Bruce P. Lee](https://scholar.google.com/citations?user=WmqpJNAAAAAJ&hl=en). My research applies biomimetic strategies to develop multifunctional polymeric materials by integrating principles from materials science and bioengineering. Through the design of advanced biomaterials with tailored chemical, mechanical, and biological properties, I aim to address critical challenges in tissue repair, medical devices, and translational healthcare.
 
+Research Interests
+======
+- Bioinspired polymer chemistry
+- Material synthesis and characterization
+- Adhesive, antimicrobial, and responsive biomaterials
+- Functional hydrogels and multifunctional materials
+- Regenerative medicine and tissue engineering
+- Dental and orthopedic biomaterials
+  
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
