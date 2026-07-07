@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a research scientist specializing in polymer chemistry and bioinspired biomaterials for wet adhesion, regenerative medicine, and infection control. I received my Ph.D. in Biomedical Engineering from [Michigan Technological University](https://www.mtu.edu/biomedical/) under the mentorship of [Dr. Bruce P. Lee](https://scholar.google.com/citations?user=WmqpJNAAAAAJ&hl=en). My research employs biomimetic approaches to design multifunctional biomaterials inspired by biological systems, with applications in tissue repair, regenerative medicine, and infection control. By integrating polymer chemistry, materials science, and bioengineering, I aim to develop innovative biomaterials that address clinically relevant challenges while advancing fundamental understanding of bioinspired material design.
+Hello! I am a research scientist specializing in polymer chemistry and bioinspired biomaterials for wet adhesion, regenerative medicine, and infection control. I received my Ph.D. in Biomedical Engineering from [Michigan Technological University](https://www.mtu.edu/biomedical/) under the mentorship of [Dr. Bruce P. Lee](https://scholar.google.com/citations?user=WmqpJNAAAAAJ&hl=en). My research applies biomimetic strategies to develop multifunctional polymeric materials by integrating principles from materials science and bioengineering. Through the design of advanced biomaterials with tailored chemical, mechanical, and biological properties, I aim to address critical challenges in tissue repair, medical devices, and translational healthcare.
 
 A data-driven personal website
 ======
