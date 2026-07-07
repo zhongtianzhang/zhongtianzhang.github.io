@@ -2,7 +2,7 @@
 title: "Correlating the mass and mechanical property changes during the degradation of PEG-based adhesive"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-03-10-paper-title-number-3
+permalink: /publication/2020-03-10-paper-title-number-1
 excerpt: ''
 date: 2020-03-10
 venue: 'Journal of Applied Polymer Science'
