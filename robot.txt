@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhongtianzhang.github.io/sitemap.xml
