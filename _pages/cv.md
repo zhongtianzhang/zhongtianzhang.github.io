@@ -50,4 +50,8 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Awards
+======
+* Outstanding Scholarship Award, Michigan Technological University, 2022
+* Outstanding Teaching Award, Michigan Technological University, 2021
