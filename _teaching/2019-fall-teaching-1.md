@@ -1,5 +1,5 @@
 ---
-title: "BE3400 Lab Techniques"
+title: "BE3400 Lab Techniques, Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching-1
