@@ -8,13 +8,6 @@ date: 2020-09-01
 location: "Houghton, USA"
 ---
 
-Teaching Responsibilities
-======
-- Led laboratory sessions for undergraduate biomedical engineering students
-- Provided instruction on experimental techniques
-- Developed and updated pre-/post-lab materials
-- Evaluated student lab reports and assignments
-
 Student Feedback
 ======
 - “I appreciated the effort put into developing course materials and providing clear guidance throughout the semester. The feedback on lab reports helped me improve my scientific writing and experimental analysis skills.”
