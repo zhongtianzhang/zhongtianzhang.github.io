@@ -32,4 +32,4 @@ Selected Recent Publications
 
 Open to Opportunities
 ======
-I am open to postdoctoral researcher, R&D scientist, and teaching faculty opportunities in biomaterials, polymer science, and biomedical engineering. I welcome discussions and collaborations related to bioinspired polymers, tissue adhesives, and multifunctional biomaterials.
+I welcome discussions and collaborations related to bioinspired polymers, tissue adhesives, and multifunctional biomaterials.
